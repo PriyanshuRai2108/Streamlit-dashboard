@@ -17,8 +17,8 @@ Welcome to the **Streamlit Dashboard** project! This interactive app lets you vi
 
 ### 1️⃣ Clone this repository
 ```bash
-git clone https://github.com/Tanmay-hue/Streamlit_Dashboard.git
-cd Streamlit_Dashboard
+git clone https://github.com/PriyanshuRai2108/Streamlit-dashboard.git
+cd Streamlit-dashboard
 ```
 
 ### 2️⃣ Install dependencies
@@ -85,7 +85,7 @@ Want to make your app accessible online? Follow these steps:
 ---
 
 ## 📸 Preview
-![Spiral Preview](https://github.com/Tanmay-hue/Streamlit_Dashboard/blob/main/image.png)
+![Spiral Preview](https://github.com/PriyanshuRai2108/Streamlit-dashboard/blob/main/image.png)
 
 Experience the magic of interactive visualizations with just a few lines of code! 🌀
 
@@ -103,4 +103,4 @@ Experience the magic of interactive visualizations with just a few lines of code
 
 Happy coding! 🎨✨
 
-By - Tanmay Singh
+By - Priyanshu Rai
